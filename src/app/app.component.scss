@@ -1,0 +1,12 @@
+.items-foo,
+.items-bar {
+  padding: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  div {
+    margin: 0.75rem;
+    background-color: antiquewhite;
+    padding: 10px;
+    max-width: max-content;
+  }
+}
